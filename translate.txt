@@ -1,0 +1,65 @@
+ENGLISH
+
+Config.Prompts = { 
+    Drop = "Drop",                    
+    DropKey = 0x3B24C470,              -- F
+    Smoke = "Smoke",
+    Chewing = "Chewing",
+    SmokeKey = 0x07B8BEAF,             -- LMB
+    Change = "Change position",
+    ChangeKey = 0xD51B784F,            -- E
+}
+
+Config.Text = {
+    Pipe = "You need dried tobacco and matches for your pipe!",
+    Cigar = "You need matches to light your cigar!",
+    Allumettes = "You need matches ...",
+    Empty = "You have completed your package !",
+    Text1 = "You now have 9 cigarettes left",
+    Text2 = "You now have 8 cigarettes left",
+    Text3 = "You now have 7 cigarettes left",
+    Text4 = "You now have 6 cigarettes left",
+    Text5 = "You now have 5 cigarettes left",
+    Text6 = "You now have 4 cigarettes left",
+    Text7 = "You now have 3 cigarettes left",
+    Text8 = "You now have 2 cigarettes left",
+    Text9 = "You now have 1 cigarettes left",
+    TextA = "You now have 4 doses left",
+    TextB = "You now have 3 doses left",
+    TextC = "You now have 2 doses left",
+    TextD = "You now have 1 dose left",
+    Empty2 = "It was your last chewing tobacco",
+}
+
+FRENCH
+
+Config.Prompts = { 
+    Drop = "Jeter",                    
+    DropKey = 0x3B24C470,              -- F
+    Smoke = "Tirer une latte",
+    Chewing = "Mâcher",
+    SmokeKey = 0x07B8BEAF,             -- LMB
+    Change = "Changer de position",
+    ChangeKey = 0xD51B784F,            -- E
+}
+
+Config.Text = {
+    Pipe = "Il te faut du tabac séché et des allumettes pour ta pipe !",
+    Cigar = "Il te faut des allumettes pour allumer ton cigare !",
+    Allumettes = "Il te faut des allumettes ...",
+    Empty = "Tu as terminé ton paquet !",
+    Text1 = "Il te reste à présent 9 cigarettes",
+    Text2 = "Il te reste à présent 8 cigarettes",
+    Text3 = "Il te reste à présent 7 cigarettes",
+    Text4 = "Il te reste à présent 6 cigarettes",
+    Text5 = "Il te reste à présent 5 cigarettes",
+    Text6 = "Il te reste à présent 4 cigarettes",
+    Text7 = "Il te reste à présent 3 cigarettes",
+    Text8 = "Il te reste à présent 2 cigarettes",
+    Text9 = "Il te reste à présent 1 cigarettes",
+    TextA = "Il te reste 4 doses",
+    TextB = "Il te reste 3 doses",
+    TextC = "Il te reste 2 doses",
+    TextD = "Il te reste 1 dose",
+    Empty2 = "C'était la dernière dose !",
+}
