@@ -34,5 +34,5 @@ Enjoy !
 
 🆘💭
 Any problem or any question ?
-
-Discord: #Heros#5092
+Discord: #heros0000
+https://discord.gg/FK3PGDyZmF
